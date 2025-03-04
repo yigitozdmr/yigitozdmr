@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yiğit özdemi̇r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit özdemi̇r" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yi%C4%9Fit-%C3%B6zdemir-012420327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit özdemi̇r" height="30" width="40" /></a>
 <a href="https://instagram.com/yi̇gi̇tt.ozdemr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yi̇gi̇tt.ozdemr" height="30" width="40" /></a>
 </p>
 
