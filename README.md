@@ -1,4 +1,11 @@
-<h1 align="center">⚡ Yiğit Özdemir</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yigitozdmr/yigitozdmr-assets/7cde36dea8f7bbe760c19f4a518ad9f01f43f444/energy.png"
+       width="65"
+       style="opacity:0.95;"
+       alt="Lightning Logo"/>
+</p>
+
+<h1 align="center">Yiğit Özdemir</h1>
 
 <h3 align="center">Software Engineering Student | ML • DL • Embedded Systems</h3>
 
