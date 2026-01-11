@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/yigitozdmr/yigitozdmr-assets/7cde36dea8f7bbe760c19f4a518ad9f01f43f444/energy.png"
-       width="65"
+       width="70"
        style="opacity:0.95;"
        alt="Lightning Logo"/>
 </p>
