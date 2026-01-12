@@ -28,24 +28,52 @@
 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
 
-  <!-- ML / DL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>Python</b></span>
+  </span>
 
-  <!-- Robotics / Autonomous -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>C</b></span>
+  </span>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>C++</b></span>
+  </span>
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>TensorFlow</b></span>
+  </span>
+
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>PyTorch</b></span>
+  </span>
+
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>ROS2</b></span>
+  </span>
+
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>Gazebo</b></span>
+  </span>
+
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>MySQL</b></span>
+  </span>
+
+  <span style="margin:20px; display:inline-flex; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+    <span style="margin-left:8px;"><b>Git</b></span>
+  </span>
+
 </p>
 
 
