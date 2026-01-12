@@ -7,11 +7,11 @@
 
 <h1 align="center">Yiğit Özdemir</h1>
 
-<h3 align="center">Software Engineering Student | ML • DL • Embedded Systems</h3>
+<h3 align="center">Software Engineering Student | ML • DL • Autonomous & Embedded Systems</h3>
 
 <p align="center">
   I am a software engineering student focused on <b>Machine Learning</b>, 
-  <b>Deep Learning</b>, and <b>Embedded Systems</b>.  
+  <b>Deep Learning</b>, and <b>Autonomous & Embedded Systems</b>.  
   I enjoy building practical, data-driven and hardware-integrated solutions.
 </p>
 
@@ -20,41 +20,34 @@
 ### 🔍 Focus Areas
 - Machine Learning & Deep Learning  
 - NLP & Data-Driven Systems  
-- Embedded Systems (STM32, C/C++)  
+- Autonomous & Embedded Systems (STM32, ROS, C/C++)  
 - Algorithmic Problem Solving  
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
   <!-- Programming -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
 
   <!-- ML / DL -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+
+  <!-- Robotics / Autonomous -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
 
   <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" style="margin:8px; vertical-align:middle;" />
 </p>
+
 
 
 ---
