@@ -17,7 +17,7 @@
 
 ---
 
-### 🔍 Focus Areas
+### Focus Areas
 - Machine Learning & Deep Learning  
 - NLP & Data-Driven Systems  
 - Autonomous & Embedded Systems (STM32, ROS, C/C++)  
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -80,7 +80,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 - **Duygu Dedektifi (Sentiment Analysis)** — LSTM-based NLP application
 - **Stock Market Prediction (LSTM)** – Time-series forecasting with deep learning  
 - **Industrial Autonomous Robot** – Embedded control & automation (Hackathon Winner)  
@@ -88,7 +88,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yiğit-özdemir-012420327/" target="_blank">
