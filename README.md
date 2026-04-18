@@ -5,58 +5,75 @@
 </p>
 
 <h1 align="center">Yiğit Özdemir</h1>
-
-<h3 align="center">Software Engineering Student | AI & Data Systems | Embedded Systems</h3>
+<h3 align="center">Software Engineering Student | AI Systems & Embedded Systems</h3>
 
 <p align="center">
-  Software Engineering student focused on <b>AI and data-driven systems</b>. <br/>
-  Working on <b>LLMs, RAG architectures</b>, and <b>embedded systems</b> projects.
+  I build AI-driven systems and work on real-world software problems.<br/>
+  My focus is on <b>LLMs, RAG architectures</b>, backend systems, and embedded applications.
 </p>
 
 ---
 
-### Focus Areas
-- LLMs & RAG Systems  
-- Backend for AI Applications  
-- Embedded Systems (STM32, LoRa)  
-- Data-Driven Applications  
+### Featured Project
+
+#### LLM + RAG Chatbot System
+
+<p align="center">
+  <img src="https://your-gif-link-here.gif" width="600" alt="Demo"/>
+</p>
+
+- Retrieval-based response generation  
+- Prompt optimization for domain-specific tasks  
+- Backend integration with vector search  
+
+**Stack:** Python · LLM APIs · Vector DB · FastAPI  
+
+---
+
+### Experience
+
+**AI & Backend Developer**  
+Working on LLM + RAG systems, retrieval pipelines, and backend services for AI applications.
+
+**Embedded Systems Intern**  
+Developed STM32-based systems using UART, PWM, and LoRa communication in constrained environments.
+
+---
+
+### Selected Projects
+
+- **Autonomous Robot (ROS2)** — 1st place in university hackathon  
+- **LoRa Mesh System** — multi-node communication (ACK, unicast, broadcast)  
+- **STM32 Projects** — UART, PWM, embedded development  
+- **Heart Disease Prediction Model** — ML-based data analysis  
 
 ---
 
 ### Tech Stack
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="36"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="36"/>
+</p>
 
-  <span style="margin:20px; display:inline-flex; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-    <span style="margin-left:8px;"><b>Python</b></span>
-  </span>
-
-  <span style="margin:20px; display:inline-flex; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-    <span style="margin-left:8px;"><b>C</b></span>
-  </span>
-
-  <span style="margin:20px; display:inline-flex; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40"/>
-    <span style="margin-left:8px;"><b>PyTorch</b></span>
-  </span>
-
-  <span style="margin:20px; display:inline-flex; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-    <span style="margin-left:8px;"><b>Git</b></span>
-  </span>
-
+<p align="center">
+  <code>LLMs · RAG · Python · C · STM32 · LoRa · ROS2 · Backend Systems</code>
 </p>
 
 ---
----
 
-### Projects
-- **LLM + RAG Chatbot Systems** – Retrieval pipelines, prompt optimization  
-- **Autonomous Robot (ROS2)** – Hackathon 1st place  
-- **LoRa Mesh System** – Communication protocols (ACK, unicast, broadcast)  
-- **STM32 Projects** – UART, PWM, embedded development  
+### Currently
+
+- Improving **LLM-based systems** and retrieval architectures  
+- Exploring **edge AI and embedded integration**  
+- Open to internships in **AI, embedded, and simulation systems**
 
 ---
 
@@ -66,9 +83,11 @@
   <a href="https://www.linkedin.com/in/yiğit-özdemir-012420327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yiğit_Özdemir-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  &nbsp;
   <a href="mailto:yigitozdemir52@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/yigitozdmr">
     <img src="https://img.shields.io/badge/GitHub-yigitozdmr-181717?style=for-the-badge&logo=github"/>
   </a>
