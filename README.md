@@ -5,75 +5,68 @@
 </p>
 
 <h1 align="center">Yiğit Özdemir</h1>
-<h3 align="center">Software Engineering Student | AI Systems & Embedded Systems</h3>
+<h3 align="center">Software Engineering Student | AI & Data Systems | Embedded Systems Experience</h3>
 
 <p align="center">
-  I build AI-driven systems and work on real-world software problems.<br/>
-  My focus is on <b>LLMs, RAG architectures</b>, backend systems, and embedded applications.
+  I am a software engineering student focused on AI and data-driven systems.<br/>
+  My work includes LLMs, RAG-based chatbot systems, backend development, and embedded systems projects.
 </p>
-
----
-
-### Featured Project
-
-#### LLM + RAG Chatbot System
-
-<p align="center">
-  <img src="https://your-gif-link-here.gif" width="600" alt="Demo"/>
-</p>
-
-- Retrieval-based response generation  
-- Prompt optimization for domain-specific tasks  
-- Backend integration with vector search  
-
-**Stack:** Python · LLM APIs · Vector DB · FastAPI  
 
 ---
 
 ### Experience
 
 **AI & Backend Developer**  
-Working on LLM + RAG systems, retrieval pipelines, and backend services for AI applications.
+Working on LLM + RAG chatbot systems, retrieval pipelines, prompt optimization, and backend development for AI applications.
 
 **Embedded Systems Intern**  
-Developed STM32-based systems using UART, PWM, and LoRa communication in constrained environments.
+Worked on STM32-based systems with UART, PWM, and LoRa mesh communication. Gained experience in resource-constrained embedded environments.
+
+**Embedded Systems Intern**  
+Built firmware and hardware-oriented solutions using STM32, UART, and PWM during internship work.
 
 ---
 
-### Selected Projects
+### Featured Project
 
-- **Autonomous Robot (ROS2)** — 1st place in university hackathon  
-- **LoRa Mesh System** — multi-node communication (ACK, unicast, broadcast)  
-- **STM32 Projects** — UART, PWM, embedded development  
-- **Heart Disease Prediction Model** — ML-based data analysis  
+| Project | Stack | Highlights |
+|---|---|---|
+| LLM + RAG Chatbot System | Python, LLMs, Vector DB | Retrieval-based chatbot with prompt optimization and backend integration |
+
+---
+
+### Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| Autonomous Robot | ROS2, Python, Gazebo | 1st place in a university hackathon |
+| LoRa Mesh Communication System | STM32, C, LoRa | ACK, unicast, and broadcast communication |
+| Heart Disease Prediction Model | Python, ML | Data-driven prediction model |
+| STM32 Embedded Projects | C, STM32 HAL | UART, PWM, peripheral control |
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" title="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="36" title="C"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="36" title="PyTorch"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="36" title="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" height="36" title="ROS2"/>
 </p>
 
 <p align="center">
-  <code>LLMs · RAG · Python · C · STM32 · LoRa · ROS2 · Backend Systems</code>
+  <code>LLMs · RAG · Retrieval Pipelines · Python · C · STM32 · LoRa · ROS2 · Git</code>
 </p>
 
 ---
 
 ### Currently
 
-- Improving **LLM-based systems** and retrieval architectures  
-- Exploring **edge AI and embedded integration**  
-- Open to internships in **AI, embedded, and simulation systems**
+- Improving my skills in **LLM-based systems** and **backend integration**
+- Working on **embedded systems** projects with STM32 and LoRa
+- Building a stronger profile for **AI, embedded, and simulation-related internships**
 
 ---
 
@@ -85,7 +78,7 @@ Developed STM32-based systems using UART, PWM, and LoRa communication in constra
   </a>
   &nbsp;
   <a href="mailto:yigitozdemir52@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
   &nbsp;
   <a href="https://github.com/yigitozdmr">
