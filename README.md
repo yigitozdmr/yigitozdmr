@@ -50,6 +50,31 @@
 </p>
 
 ---
+---
+
+### 🚀 Featured Project
+
+#### LLM + RAG Chatbot System
+
+<p align="center">
+  <img src="https://your-gif-link-here.gif" width="600"/>
+</p>
+
+AI-powered chatbot system using **LLM + RAG architecture**.
+
+**Key Features**
+- Retrieval-based response generation  
+- Custom document indexing  
+- Prompt optimization  
+- Backend API integration  
+
+**Tech Stack**
+- Python  
+- LLM APIs  
+- Vector Database (FAISS / Chroma)  
+- Backend (FastAPI / Flask)  
+
+🔗 [View Project](https://github.com/yigitozdmr/your-project-repo)
 
 ### Projects
 - **LLM + RAG Chatbot Systems** – Retrieval pipelines, prompt optimization  
